@@ -1,0 +1,24 @@
+{
+  "name": "no-col",
+  "version": "1.0.0",
+  "description": "simulate non colliding movement",
+  "main": "sketch.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "keywords": [
+    "physics",
+    "simulation",
+    "collision"
+  ],
+  "author": "Marc Ablay",
+  "license": "ISC",
+  "dependencies": {
+    "p5js": "^1.2.15"
+  },
+  "devDependencies": {
+    "p5js-cli": "^1.0.2",
+    "snowpack": "^3.3.5"
+  }
+}
