@@ -4,7 +4,7 @@ Multi object orbiting simulation converging towards collision free trajectories.
 
 This is a JavaScript rewrite of Jean Tampons wonderful [NoCol](https://github.com/johnBuffer/NoCol) C++ project.
 
-![screenshot](./screenshot.png)
+https://user-images.githubusercontent.com/3452969/116325658-ef95d480-a7c2-11eb-99a0-1b2b7d43dd06.mp4
 
 You can run the simulation right in your browser ( [link](https://mablay.github.io/NoColJS) ). See keyboard shortcuts below.
 
