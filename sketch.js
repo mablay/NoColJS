@@ -62,3 +62,16 @@ function sketch (p5) {
 }
 
 const p5 = new p5js(sketch)
+
+document.getElementById('goFS')
+  .addEventListener('click', () => {
+    if (!document.fullscreenElement) {
+      document.documentElement.requestFullscreen()
+    } else if (document.exitFullscreen) {
+      document.exitFullscreen()
+    }
+  }, false)
+
+if (typeof window.orientation === 'undefined') {
+  document.getElementById('goFS').style.display = 'none'
+}

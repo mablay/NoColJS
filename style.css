@@ -15,3 +15,9 @@ main {
     justify-content: center;
     align-items: center;
 }
+
+#goFS {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+}
