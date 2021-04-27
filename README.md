@@ -8,8 +8,8 @@ This is a JavaScript version of Jean Tampons wonderful [NoCol](https://github.co
 ## User Interaction
 
 * <kbd>E</kbd> toggle v-sync. V-sync limits the number of frames per second, so disabling it speeds up the simulation.
-* <kbd>A</kbd> toggle the visibility of the traces.
-* <kbd>space</kbd> toggle slow-motion.
+* <kbd>S</kbd> single step animation.
+* <kbd>space</kbd> toggle animation
 * <kbd>R</kbd> reset the view.
 * <kbd>mouse-click</kbd> to spawn a new object.
 
