@@ -1,4 +1,4 @@
-# NoColJs
+# NoColJS
 
 Multi object orbiting simulation converging towards collision free trajectories.
 
