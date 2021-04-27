@@ -1,4 +1,4 @@
-import p5js from './_snowpack/pkg/p5js/p5js/p5.js'
+import p5js from './p5.js'
 const { Vector } = p5js
 
 export default class Ball {
