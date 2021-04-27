@@ -2,7 +2,7 @@
 
 Multi object orbiting simulation converging towards collision free trajectories.
 
-This is a web version of Jean Tampons wonderful [NoCol](https://github.com/johnBuffer/NoCol) project. Check it out, it has a video!
+This is a JavaScript version of Jean Tampons wonderful [NoCol](https://github.com/johnBuffer/NoCol) project (written in C++).
 
 
 ## User Interaction
@@ -14,3 +14,17 @@ This is a web version of Jean Tampons wonderful [NoCol](https://github.com/johnB
 * <kbd>mouse-click</kbd> to spawn a new object.
 
 On a Mac you can pan and scroll around. Not sure if it behaves the same way on Windows and Linux.
+
+## Setup
+
+Requirement: NodeJS v10+
+
+```sh
+npm install
+```
+
+## Run
+
+```sh
+npm start
+```
