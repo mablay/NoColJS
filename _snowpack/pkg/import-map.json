@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "p5js/p5.js/p5": "./p5js/p5js/p5.js"
+  }
+}
