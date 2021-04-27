@@ -2,7 +2,7 @@
 
 Multi object orbiting simulation converging towards collision free trajectories.
 
-This is a JavaScript rewite of Jean Tampons wonderful [NoCol](https://github.com/johnBuffer/NoCol) project (written in C++).
+This is a JavaScript rewrite of Jean Tampons wonderful [NoCol](https://github.com/johnBuffer/NoCol) C++ project.
 
 ![screenshot](./screenshot.png)
 
