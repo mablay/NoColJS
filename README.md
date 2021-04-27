@@ -20,6 +20,8 @@ On a Mac you can pan and scroll around. Not sure if it behaves the same way on W
 Requirement: NodeJS v10+
 
 ```sh
+git clone git@github.com:mablay/NoColJS.git
+cd NoColJS
 npm install
 ```
 
