@@ -4,8 +4,7 @@
 /** @type {import("snowpack").SnowpackUserConfig } */
 module.exports = {
   mount: {
-    public: {url: '/', static: true},
-    src: {url: '/'}
+    public: {url: '/', static: true}
   },
   plugins: [
     /* ... */
@@ -19,4 +18,9 @@ module.exports = {
   buildOptions: {
     /* ... */
   },
-};
+  optimize: {
+    minify: true,
+    treeshake: true,
+    target: 'es2020'
+  }
+}
